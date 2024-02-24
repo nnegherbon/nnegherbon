@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Vini! 🌿🖥️
 
- 🔵 Estudando: lógica de programação js/html/css 
+ 🔵 Estudando: js/angular
  <br>
  🔵 Contate-me no e-mail: vinicius.negherbon@gmail.com
  
